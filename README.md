@@ -23,7 +23,7 @@ No computador, abra `http://localhost:5173`. O Vite encaminha `/api` para a API 
 
 ## Dados de demonstração
 
-Entre com um perfil de paciente e use **Simular dados** no topo. Isso cria registros fictícios de família, dependentes, consulta, pesagem, vacinação, visita e smartwatch para aquele perfil. Quando a API estiver ativa, os registros são gravados no SQLite; também ficam em `localStorage` para a interface funcionar sem a API.
+Entre com um perfil de paciente e use **Simular dados** no topo. Isso cria registros fictícios de família, dependentes, consulta, pesagem, vacinação, visita e smartwatch para aquele perfil. Quando a API estiver ativa, os registros são gravados no SQLite; também ficam em `localStorage` para a interface funcionar sem a API.Ou entre com outros perfis já criados para testes.
 
 Verifique a API em `http://localhost:8000/api/health`.
 
