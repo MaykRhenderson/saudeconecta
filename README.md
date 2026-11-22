@@ -1,4 +1,4 @@
-# SaúdeConecta — ambiente de demonstração
+# SaúdeConecta — Ambiente de demonstração
 
 ## Iniciar API e banco
 
