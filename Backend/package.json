@@ -1,0 +1,13 @@
+{
+  "name": "saudeconecta-backend",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node server.mjs",
+    "dev": "node --watch server.mjs",
+    "seed": "node seed-demo.mjs"
+  },
+  "engines": {
+    "node": ">=22.5"
+  }
+}

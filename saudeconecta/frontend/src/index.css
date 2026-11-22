@@ -1,0 +1,32 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  min-width: 320px;
+  background: #f5f7fa;
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+  min-height: 100vh;
+  font-family: Roboto, "Helvetica Neue", Arial, sans-serif;
+  color: #17212b;
+}
+
+button,
+input {
+  font: inherit;
+}
+
+@media print {
+  body {
+    background: #fff;
+  }
+
+  button,
+  a {
+    display: none !important;
+  }
+}
